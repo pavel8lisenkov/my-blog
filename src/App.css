@@ -1,0 +1,5 @@
+@import url('./normalize');
+
+ul {
+	list-style-type: none;
+}
